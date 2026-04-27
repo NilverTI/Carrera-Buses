@@ -1,9 +1,13 @@
-# Carrera de Buses en Python
+# Python Bus Race
+This project simulates an exciting race between two buses: Red Bull and Monster, using Python to create a console animation.
 
-Este proyecto simula una emocionante carrera entre dos buses: Red Bull y Monster, utilizando Python para crear una animación en la consola.
+## Requirements
+- Makefile
+- Docker v2
 
-## Descripción
-La animación muestra el avance de los buses de forma aleatoria hasta que uno de ellos cruza la meta. El código está diseñado para ser fácil de entender y modificar, lo que lo convierte en una excelente oportunidad para quienes desean practicar programación y explorar la lógica de simulaciones.
 
-## Créditos
-**Autor:** Nilver T.I  
+## Description
+The animation shows the buses progressing randomly until one of them crosses the finish line. The code is designed to be easy to understand and modify, making it a great opportunity for those who want to practice programming and explore simulation logic.
+
+## Usage
+make run

@@ -1,0 +1,9 @@
+services:
+  app:
+    build: .
+    container_name: bus-race
+    stdin_open: true
+    tty: true
+    restart: "no"
+    volumes:
+      - ./buses.py:/app/buses.py
